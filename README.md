@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C and C+
 - 📫 How to reach me @alok.mishra1 in insta.
-- ⚡ Fun fact:I am a strategic gamer who love clash of clans but balances it out with my super-organized and hardworking lifestyle.
+- ⚡ Fun fact: I am a strategic gamer who love clash of clans but balances it out with my super-organized and hardworking lifestyle.
 
 <!---
 alokmishra02/alokmishra02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
