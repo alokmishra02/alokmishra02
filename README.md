@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alokmishra02
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C and C+
-- 📫 How to reach me @alok.mishra1
+- 📫 How to reach me @alok.mishra1 in insta.
 - ⚡ Fun fact:I am a strategic gamer who love clash of clans but balances it out with my super-organized and hardworking lifestyle.
 
 <!---
